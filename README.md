@@ -5,7 +5,7 @@
 
 **Note:** This repository code isn't optimized in any aspect. 
 
-###Input:  
+### Input:  
 - Audio Instructions to place 3d objects in the scene
 - Example input: `Add me a table to the scene`  
 
